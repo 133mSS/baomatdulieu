@@ -1,0 +1,3 @@
+Figures written to /mnt/data/work_project/rebuild/baomatdulieu/results/figures
+
+exit_code=0
